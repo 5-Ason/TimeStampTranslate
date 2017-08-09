@@ -1,0 +1,11 @@
+ {
+   "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328d",   
+   "ActionKeyword":"tt",                      
+   "Name":"时间戳转换",                       
+   "Description":"时间戳转换查询插件",        
+   "Author":"Ason",
+   "Version":"1.0.0",                         
+   "Language":"python",                       
+   "IcoPath": "Images\\opac.png",             
+   "ExecuteFileName":"main.py"                
+ }
