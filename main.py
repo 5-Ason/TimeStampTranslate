@@ -52,7 +52,7 @@ class Translate(Wox):
             result = [{
                 "Title": data,
                 "SubTitle": '时间戳转换-按下回车复制到粘贴版 ',
-                "IcoPath": "/Image/app.png",
+                "IcoPath": "Images/timestamp.png",
                 "JsonRPCAction": {
                     "method": "copy",
                     "parameters": [data],
@@ -64,7 +64,7 @@ class Translate(Wox):
                 result.append({
                     "Title": d,
                     "SubTitle": '时间戳转换-按下回车复制到粘贴版 ',
-                    "IcoPath": "/Image/app.png",
+                    "IcoPath": "Images/timestamp.png",
                     "JsonRPCAction": {
                         "method": "copy",
                         "parameters": [d],

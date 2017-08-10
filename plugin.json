@@ -6,6 +6,6 @@
    "Author":"Ason",
    "Version":"1.0.0",                         
    "Language":"python",                       
-   "IcoPath": "Images\\opac.png",             
+   "IcoPath": "Images\\timestamp.png",
    "ExecuteFileName":"main.py"                
  }
