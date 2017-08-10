@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-# Author: Ason
+# Author: Jack Wu & Ason
 # Date: 8/9/2017_
 import datetime
 import time
 import os
+
+import pyperclip
 from wox import Wox,WoxAPI
 
 class Translate(Wox):
@@ -74,8 +76,9 @@ class Translate(Wox):
         return result
 
     def copy(self, data):
-        command = 'set /p="' + data + '"<nul echo ' + data + '| clip'
-        os.system(command)
+        # command = 'set /p="' + data + '"<nul echo ' + data + '| clip'
+        # os.system(command)
+        pyperclip.copy(data)
 
 if __name__ == "__main__":
     Translate()

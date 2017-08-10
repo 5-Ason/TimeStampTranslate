@@ -3,7 +3,7 @@
    "ActionKeyword":"tt",                      
    "Name":"时间戳转换",                       
    "Description":"时间戳转换查询插件",        
-   "Author":"Ason",
+   "Author":"JackWu&Ason",
    "Version":"1.0.0",                         
    "Language":"python",                       
    "IcoPath": "Images\\timestamp.png",
