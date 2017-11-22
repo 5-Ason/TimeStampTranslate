@@ -11,20 +11,20 @@
 
 ### 1.输入 tt now 显示当前时间戳以及当前时间：
 
-![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/1.png?raw=true)
+![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/5.png?raw=true)
 
 ### 2.输入 tt 跟时间戳可以显示转换的时间：
-![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/2.png?raw=true)
+![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/4.png?raw=true)
 
 ### 3.输入 tt 跟时间可以显示转换的时间戳(目前支持3种日期格式):
 #### 格式一：  
-![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/3.png?raw=true)   
+![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/1.png?raw=true)   
 
 #### 格式二：  
-![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/4.png?raw=true)  
+![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/2.png?raw=true)  
 
 #### 格式三：  
-![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/5.png?raw=true)
+![image](https://github.com/5-Ason/TimeStampTranslate/blob/master/Images/3.png?raw=true)
 
 ---
 
